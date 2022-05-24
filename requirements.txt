@@ -1,0 +1,6 @@
+Flask==2.1.2
+Flask_Cors==3.0.10
+numpy==1.22.4
+onnxruntime==1.11.1
+opencv_python==4.5.5.64
+Pillow==9.1.1
